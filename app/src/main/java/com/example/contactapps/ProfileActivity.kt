@@ -3,7 +3,6 @@ package com.example.contactapps
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.contactapp.databinding.ActivityProfileBinding
 import com.example.contactapps.databinding.ActivityProfileBinding
 
 class ProfileActivity : AppCompatActivity() {
